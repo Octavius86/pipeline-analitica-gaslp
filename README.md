@@ -1,1 +1,1 @@
-# GasLP-Operational-Analytics
+# Pipeline de Analítica para la Distribución de Gas LP
