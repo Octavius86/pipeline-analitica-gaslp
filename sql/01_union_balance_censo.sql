@@ -1,4 +1,5 @@
 /*
+===============================================================================
 PROYECTO: Pipeline de Analítica para la Distribución de Gas LP
 
 ARCHIVO:
@@ -24,7 +25,7 @@ SALIDA:
 Vista: logistica.gaslp.union_balance_censo
 
 AUTOR:
-Ivan Octavio Ortiz Gallardo
+Iván Octavio Ortiz Gallardo
 ===============================================================================
 */
 
