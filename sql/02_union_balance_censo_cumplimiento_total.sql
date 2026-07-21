@@ -31,7 +31,7 @@ DEPENDENCIA:
 01_union_balance_censo.sql
 
 AUTOR:
-Iván Octavio Ortiz Gallardo
+Ivan Octavio Ortiz Gallardo
 ===============================================================================
 */
 
