@@ -25,7 +25,7 @@ SALIDA:
 Vista: logistica.gaslp.union_balance_censo
 
 AUTOR:
-Iván Octavio Ortiz Gallardo
+Ivan Octavio Ortiz Gallardo
 ===============================================================================
 */
 
