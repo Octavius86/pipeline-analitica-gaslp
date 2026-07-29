@@ -1,4 +1,4 @@
-# Notebooks de Análisis y Modelado
+# Notebook de Análisis y Modelado
 
 ## Descripción
 
